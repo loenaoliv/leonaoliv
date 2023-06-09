@@ -1,4 +1,4 @@
-Olá! Eu sou a Lonea, uma desenvolvedora front-end apaixonada por criar interfaces incríveis e interativas! 🔥🎨
+Olá! Eu sou a Loena, uma desenvolvedora front-end apaixonada por criar interfaces incríveis e interativas! 🔥🎨
 
 ## Sobre mim
 
